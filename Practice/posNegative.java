@@ -1,4 +1,4 @@
-package Practice;
+// package Practice;
 import java.util.Scanner;
 public class posNegative {
     public static void main(String[] args) {
