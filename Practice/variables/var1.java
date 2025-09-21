@@ -1,3 +1,4 @@
+package variables;
 //Declare variables for your name, age, and CGPA. Print them in a single line.
 
 import java.util.Scanner;

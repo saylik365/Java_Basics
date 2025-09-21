@@ -1,3 +1,4 @@
+package variables;
 //Swap two numbers (using a temp variable).
 
 import java.util.Scanner;

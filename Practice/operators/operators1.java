@@ -1,3 +1,4 @@
+package operators;
 //Given three numbers, find the largest using && (logical AND).
 
 import java.util.Scanner;

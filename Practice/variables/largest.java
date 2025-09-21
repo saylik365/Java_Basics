@@ -1,3 +1,4 @@
+package variables;
 // package Practice;
 // public class largest {
 //     public static void main(String[] args) {
