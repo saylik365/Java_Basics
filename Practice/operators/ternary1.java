@@ -1,3 +1,4 @@
+package operators;
 import java.util.Scanner;
 public class ternary1 {
     public static void main(String[] args) {

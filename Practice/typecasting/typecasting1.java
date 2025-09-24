@@ -1,5 +1,8 @@
 //Q11: Assign an int value to a double and print result (implicit casting).
 //Q12: Assign a double value to an int (explicit casting), print both.
+
+// package typecasting;
+
 public class typecasting1 {
     public static void main(String[] args) {
         int marks = 80;
