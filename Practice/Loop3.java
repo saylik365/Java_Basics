@@ -10,5 +10,6 @@ public class Loop3 {
             sum = sum+i;
         }
         System.out.println("Sum of N Natural Numbers is: "+ sum);
+        System.out.println("Average is: "+ sum/num);
     }
 }
